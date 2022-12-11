@@ -16,7 +16,7 @@ body:
   - type: textarea
     id: expected-result
     attributes:
-      label: Expected result?
+      label: Expected result? Could provide a demo link (e.g. https://codesandbox.io/s/html5-sx5o9)? 
       placeholder: Tell us what you see!
       value: "I expect ..."
     validations:
