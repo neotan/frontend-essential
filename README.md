@@ -1,4 +1,4 @@
-# frontend-essential
+# frontend-essential for my friends
 
 ## 课程
 可按次序学习。
